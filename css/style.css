@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header {
+	background-color: #3C5A99;
+	min-height: 85px;
+    border-bottom: 1px solid #0B295D;
+}
+.logo h1{
+    color: #ffffff;
+    float: left;
+    width: 38%;
+    padding: 15px 150px;
+    font-family: calibri;
+    font-size: 50px;
+}
+.form {
+	float: left;
+	color:#ffffff;
+    padding-top: 18px;
+    font-family: montserrat;
+    font-size: 12px;
+}
+.email{
+    float: left;
+}
+.e-mail{
+    width: 150px;
+    height: 22px;
+    margin-top: 5px;
+}
+.pass{
+    float: left;
+    margin-left: 15px;
+}
+.pass a{
+    color: #8CB4C4;
+    text-decoration: none;
+}
+.p-ass{
+    width: 150px;
+    height: 22px;
+    margin-top: 5px;
+}
+.button{
+    float: left;
+    padding-top: 20px;
+    margin-left: 15px;
+}
+.log-btn{
+    background: #5474B9;
+    color: #ffffff;
+    width: 50px;
+    height: 24px;
+    border: 1px solid #29487D;
+    padding-bottom: 3px;
+}
+.content-block{
+    background: #F1F2F5;
+    min-height: 650px;
+}
+.content-left{
+    width: 40%;
+    float: left;
+    color: #0E385F;
+    font-family: montserrat;
+    font-size: 16px;
+    padding-left: 150px;
+    padding-top: 46px;
+}
+.content-right{
+    float: left;
+    padding-left: 100px;
+    padding-top: 30px;
+    font-family: montserrat;
+    color: #333333;
+}
+.content-right p{
+    margin-top: 10px;
+    font-size: 15px;
+    color: #333333;
+}
+.f-s-name input{
+    height: 20px;
+    width: 175px;
+    border-radius: 5px;
+    border: 1px solid #666666;
+    color: #605e5e;
+    font-size: 18px;
+    padding: 10px 10px 10px;
+    margin-top: 25px;
+}
+.m-number input{
+    height: 20px;
+    width: 376px;
+    border-radius: 5px;
+    border: 1px solid #666666;
+    color: #605e5e;
+    font-size: 18px;
+    padding: 10px 10px 10px;
+    margin-top: 15px;
+}
+.n-pass input{
+    height: 20px;
+    width: 376px;
+    border-radius: 5px;
+    border: 1px solid #666666;
+    color: #605e5e;
+    font-size: 18px;
+    padding: 10px 10px 10px;
+    margin-top: 15px;
+}
+.b-day-select{
+    margin-top: 20px;
+    font-size: 15px;
+    color: #333333;
+    width: 220px;
+    float: left;
+}
+.b-day-select select{
+    height: 35px;
+ 	width: 70px;
+    margin-top: 5px;
+}
+.b-rule{
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.b-rule a{
+    color: #368CD4;
+    text-decoration: none;
+    font-size: 12px;
+}
+.s-gender{
+    margin-top: 15px;
+}
+.s-gender{
+    font-size: 20px;
+}
+.paragraph p{
+    font-size: 12px;
+    color: #777777;
+    width: 390px;
+    margin-top: 15px;
+}
+.paragraph a{
+    text-decoration: none;
+    color: #368CD4;
+}
+.s-button {
+	margin-top: 20px;
+}
+.s-button input {
+	height: 55px;
+	width: 220px;
+	font-size: 25px;
+	padding-bottom: 5px;
+	background: #72B25E;
+	border: 1px solid #3B6E22;
+	border-radius: 5px;
+	color: #ffffff;
+}
+.creat-page {
+	margin-top: 35px;
+	font-size: 15px;
+}
+.creat-page a{
+    text-decoration: none;
+    color: #368CD4;
+}
+.footer {
+	height: 85px;
+	background: #3C5A99;
+	border-top: 1px solid #0A1E4A;
+}
+.footer h2{
+    text-align: center;
+    color: #ffffff;
+    font-size: 25px;
+}
+.footer h2 {
+	text-align: center;
+	color: #ffffff;
+	font-size: 30px;
+	font-family: montserrat;
+	margin-top: 25px;
+}
+
+
+
+
+
